@@ -8,8 +8,8 @@
              remote="github"
              sync-j="4" />
 
-    <project name="cart0909/XRLibrary.git" path="XRLibrary" remote="github"/>
-    <project name="google/googletest.git" path="XRLibrary/ThirdParty/googletest" remote="github"/>
-    <project name="libsdl-org/SDL.git" path="XRLibrary/ThirdParty/SDL" revision="main"/>
+    <project name="cart0909/XRLibrary.git" path="XRLibrary"/>
+    <project name="google/googletest.git" path="XRLibrary/ThirdParty/googletest" revision="23ef29555ef4789f555f1ba8c51b4c52975f0907"/>
+    <project name="libsdl-org/SDL.git" path="XRLibrary/ThirdParty/SDL" revision="release-2.0.14"/>
 
 </manifest>
