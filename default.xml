@@ -4,12 +4,12 @@
     <remote name="github"
             fetch="https://github.com" />
 
-    <default revision="ref/heads/master"
+    <default revision="master"
              remote="github"
              sync-j="4" />
 
-    <project name="cart0909/XRLibrary.git" path="XRLibrary" remote="github" revision="master"/>
+    <project name="cart0909/XRLibrary.git" path="XRLibrary" remote="github"/>
     <project name="google/googletest.git" path="XRLibrary/ThirdParty/googletest"/>
-    <project name="libsdl-org/SDL.git" path="XRLibrary/ThirdParty/SDL" revision="ref/heads/main"/>
+    <project name="libsdl-org/SDL.git" path="XRLibrary/ThirdParty/SDL" revision="main"/>
 
 </manifest>
