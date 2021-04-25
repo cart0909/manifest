@@ -9,7 +9,7 @@
              sync-j="4" />
 
     <project name="cart0909/XRLibrary.git" path="XRLibrary" remote="github"/>
-    <project name="google/googletest.git" path="XRLibrary/ThirdParty/googletest"/>
+    <project name="google/googletest.git" path="XRLibrary/ThirdParty/googletest" remote="github"/>
     <project name="libsdl-org/SDL.git" path="XRLibrary/ThirdParty/SDL" revision="main"/>
 
 </manifest>
