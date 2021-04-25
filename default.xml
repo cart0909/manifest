@@ -4,11 +4,11 @@
     <remote name="github"
             fetch="https://github.com" />
 
-    <default revision="main"
+    <default revision="master"
              remote="github"
              sync-j="4" />
 
     <project name="cart0909/XRLibrary.git" path="XRLibrary"/>
-    <project name="google/googletest.git" path="XRLibrary/ThirdParty" revision="master"/>
+    <project name="google/googletest.git" path="XRLibrary/ThirdParty"/>
 
 </manifest>
